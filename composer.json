@@ -1,0 +1,11 @@
+{
+  "name": "spryker-feature/reclamations",
+  "description": "Reclamations [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker/sales-reclamation": "^0.3.1"
+  }
+}
