@@ -6,6 +6,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker/sales-reclamation": "^0.3.3"
+    "spryker/sales-reclamation": "^1.0.0",
+    "spryker/sales-reclamation-gui": "^1.0.0"
   }
 }
