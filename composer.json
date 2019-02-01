@@ -8,5 +8,10 @@
     "php": ">=7.1",
     "spryker/sales-reclamation": "^1.0.0",
     "spryker/sales-reclamation-gui": "^1.0.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
